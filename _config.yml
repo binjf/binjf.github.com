@@ -2,8 +2,8 @@ title: "代码整洁之道"
 author: "宾桀锋 Sky"
 description: "记录代码 记录生活"
 more: "read more »"
-url: binjf.github.io
-baseurl: /contrast
+url: binjf.github.com
+baseurl: ""
 paginate: 2
 permalink: pretty
 excerpt_separator: "\n\n\n" # two blank lines
