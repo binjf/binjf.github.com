@@ -1,11 +1,10 @@
 title: "THINKING"
-subtitle: "abc"
 author: "宾桀锋 Sky"
 description: "一刻宁静，一片天空。"
 more: "read more »"
 url: binjf.github.com
 baseurl: ""
-paginate: 2
+paginate: 10
 permalink: pretty
 excerpt_separator: "\n\n\n" # two blank lines
 
@@ -24,7 +23,7 @@ comments:
 
 links: # see http://fontawesome.io/icons/#brand for all possible icons
   - github: "https://github.com/binjf/binjf.github.io"
-  - envelope: "mailto:niklas.buschmann@posteo.de"
+  - envelope: "mailto:409169399@qq.com"
 
 defaults: [{scope: {path: ""}, values: {layout: "default"}}, {scope: {path: "", type: "posts"}, values: {comments: true}}]
 sass: {style: expanded}
