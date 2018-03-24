@@ -1,4 +1,0 @@
-#忽略gitignore文件
-.gitignore
-#忽略指定文件夹
-_site
