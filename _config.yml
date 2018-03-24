@@ -23,7 +23,7 @@ comments:
 #  isso: "comments.mysite.org"
 
 links: # see http://fontawesome.io/icons/#brand for all possible icons
-  - github: "https://github.com/binjf/bijf.github.io"
+  - github: "https://github.com/binjf/binjf.github.io"
   - envelope: "mailto:niklas.buschmann@posteo.de"
 
 defaults: [{scope: {path: ""}, values: {layout: "default"}}, {scope: {path: "", type: "posts"}, values: {comments: true}}]
