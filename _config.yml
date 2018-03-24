@@ -1,6 +1,7 @@
-title: "代码整洁之道"
+title: "THINKING"
+subtitle: "abc"
 author: "宾桀锋 Sky"
-description: "记录代码 记录生活"
+description: "一刻宁静，一片天空。"
 more: "read more »"
 url: binjf.github.com
 baseurl: ""
@@ -22,7 +23,7 @@ comments:
 #  isso: "comments.mysite.org"
 
 links: # see http://fontawesome.io/icons/#brand for all possible icons
-  - github: "https://github.com/binjf/contrast"
+  - github: "https://github.com/binjf/bijf.github.io"
   - envelope: "mailto:niklas.buschmann@posteo.de"
 
 defaults: [{scope: {path: ""}, values: {layout: "default"}}, {scope: {path: "", type: "posts"}, values: {comments: true}}]
