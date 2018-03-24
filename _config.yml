@@ -6,7 +6,7 @@ url: binjf.github.com
 baseurl: ""
 paginate: 10
 permalink: pretty
-excerpt_separator: "\n\n\n" # two blank lines
+excerpt_separator: "##" # two blank lines
 
 style:
   minimalist: false
