@@ -2,7 +2,7 @@
 
 ### Note
 
-Create a `master`-branch and adjust `_config.yml` if you want to use this theme in the root folder of `yourname.github.io`.
+Create a `master`-branch and adjust `_config.yml` if you want to use this theme in the root folder of `binjf.github.io`.
 
 ### Default
 
